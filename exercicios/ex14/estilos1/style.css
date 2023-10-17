@@ -1,0 +1,39 @@
+@charset "UTF-8";
+
+body{
+    background-color: rgba(39, 145, 210, 0.779);
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: normal;
+}
+header{
+    color: white;
+    text-align: center;
+}
+section{
+    text-align: center;
+    background-color: white;
+    border-radius: 8px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 4px 3px 10px rgba(0, 0, 0, 0.546);
+}
+div{
+    text-align: center;
+    padding: 8px;
+    font-weight: bold;
+    font-size: 1.3em;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+div#foto img{
+    width: 150px; 
+    height: 150px;
+    border-radius: 50%;
+}
+
+footer{
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-style: italic;
+    font-weight: bolder;
+}
