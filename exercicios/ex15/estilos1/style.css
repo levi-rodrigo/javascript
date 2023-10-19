@@ -6,6 +6,7 @@ body{
     font-weight: normal;
 }
 header{
+    
     color: white;
     text-align: center;
 }
@@ -18,21 +19,20 @@ section{
     margin: auto;
     box-shadow: 4px 3px 10px rgba(0, 0, 0, 0.546);
 }
-div{
-    text-align: center;
-    padding: 8px;
-    font-weight: bold;
-    font-size: 1.3em;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+div#res{
+    font-weight: bolder;
+    font-size: 1.2em;
 }
-div#foto img{
-    width: 150px; 
-    height: 150px;
-    border-radius: 50%;
+img{
+    padding: 15px;
+    width: 36%;  
+    height: 180px;
+    border-radius: 60%;
 }
 
 footer{
-    color: rgb(255, 255, 255);
+    color: white;
+    
     text-align: center;
     font-style: italic;
     font-weight: bolder;
