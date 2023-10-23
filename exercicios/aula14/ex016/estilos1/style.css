@@ -1,12 +1,11 @@
 @charset "UTF-8";
 
 body{
-    background-color: rgba(39, 145, 210, 0.779);
+    background-color: rgba(52, 155, 219, 0.779);
     font-family: Arial, Helvetica, sans-serif;
     font-weight: normal;
 }
 header{
-    
     color: white;
     text-align: center;
 }
@@ -19,9 +18,13 @@ section{
     margin: auto;
     box-shadow: 4px 3px 10px rgba(0, 0, 0, 0.546);
 }
+
+
+div#res{
+    font-weight: bold;
+}
 footer{
     color: white;
-    
     text-align: center;
     font-style: italic;
     font-weight: bolder;
